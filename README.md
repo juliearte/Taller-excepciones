@@ -1,4 +1,4 @@
-# Taller de Excepciones en Java
+# Taller de Excepciones - FPOE
 
 ## Integrantes 
 
